@@ -8,7 +8,7 @@ https://public.tableau.com/app/profile/angad.singh4504/viz/Covid19_TableauProjec
 
 This Tableau dashboard provides a detailed analysis of Covid-19 trends in India, offering valuable insights into key metrics:
 
-Highlights:
+# Highlights:
 1 Total Deaths by State: A heatmap reveals Maharashtra and Uttar Pradesh as the most impacted states in terms of fatalities.
 
 2 Age Group Insights: The 20-29 age group shows the highest percentage of cases (24.86%), followed by 30-39 (21.10%).
@@ -24,7 +24,7 @@ Highlights:
 7 State-wise Testing Details: States such as Tamil Nadu and Uttar Pradesh lead in total sample testing, showcasing their proactive approach.
 
 
-Trends Observed:
+# Trends Observed:
 1 States with higher population densities report higher death counts and cases, indicating a strong correlation.
 
 2 Vaccination coverage is promising but highlights the need for accelerated second-dose campaigns.
