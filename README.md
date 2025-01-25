@@ -26,6 +26,9 @@ Highlights:
 
 Trends Observed:
 1 States with higher population densities report higher death counts and cases, indicating a strong correlation.
+
 2 Vaccination coverage is promising but highlights the need for accelerated second-dose campaigns.
+
 3 Younger age groups (20-39) are the most affected, underscoring the need for targeted awareness in this demographic.
+
 4 This dashboard highlights how data can help understand the pandemic's impact and inform strategies for better preparedness.
